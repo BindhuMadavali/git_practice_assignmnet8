@@ -10,5 +10,5 @@ if(count==2){
     console.log("prime number")
 }
 else{
-    console.log*"not prime "
+    console.log("not prime ")
 }
